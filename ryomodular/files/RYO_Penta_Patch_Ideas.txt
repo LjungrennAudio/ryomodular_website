@@ -1,0 +1,19 @@
+
+----------------------------------------------------
+
+penta
+
+stepped oscillator
+by clocking Penta at audio rates, you can create stepped waveforms
+
+variation
+the odd step numbers of Penta allow you to create ever-evolving variation in sync with your sequences. use it to modulate a waveshaper or filter!
+
+Ratcheting
+Use Penta to control an LFO's rate in time with your sequence to create variable ratcheting per step!
+
+Clock division
+by setting the knobs to only max or minimum, you can create a divider, cutting the clock down to slower speeds based on odd divisions - great for polyrhythms!
+
+-----------------------------------------------------
+

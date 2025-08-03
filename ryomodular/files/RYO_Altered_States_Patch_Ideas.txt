@@ -1,0 +1,22 @@
+
+----------------------------------------------------
+
+altered states
+
+allpass filter
+Subract the highpass output from the lowpass output to achieve an allpass filter. Subtraction can be done by mixing the lowpass output with an inverted highpass output of the same filter. You can use this as a simple phase shifter, or add feedback to create a multi-pole phaser! Adjusting levels of each inversely through a crossfader like RYO 2xVCX will create a tan(h)-shaped tilt filter.
+
+drums
+setting the resonance just past so near self-oscillation and sending a trigger or decay envelope to the filter audio or cv inputs will initiate a decaying oscillation akin to the 808 kick drum.
+
+complex VCO
+sending the output of one filter in self oscillation to the cv input of the other in self oscillation will create complex FM timbres on the output of the second filter.
+
+taming complex patches
+frequency shifters, karplus-strong resonators, and complex feedback patches can use filters to remove DC offsets that may occur or smooth out harsh frequencies. Adding resonance can add more zaniness though!
+
+Formant Filter
+taking 2 bandpass outputs and mixing them with the original signal will create a crude formant filter. tune or modulate one filter between 200-900Hz and the other between 500-2600hz for best effect.
+
+---------------------------------------------------------
+

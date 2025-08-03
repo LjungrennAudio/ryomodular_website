@@ -1,0 +1,16 @@
+
+--------------------------------------------------
+
+2xVCX
+
+soft sync
+mult a signal to an inverter and send boththe original and inverse to 1 channel of 2xvcx's A and B inputs, then use a separate square wave to switch between the two using the CV input. This is a form of soft sync called switched inversion.
+
+Frequency shifting
+using 2xvcx as a dual ring modulator, you can set up a frequency shifter - just patch channel 1's cv input with a sine and the other with a cosine, and run the output of channel 1 into channel 2's input. 
+
+Subtraction
+By using one side as a fully open attenuator and the other as an inverter and taking the mix output, you can perform subtraction. Two uses include creating new filter slopes (subtract a lowpassed signal from the original to create a highpass filter) and isolating an effect (subtract an original signal from a waveshaper, for example, to only get the waveshaped portion of the sound).
+
+---------------------------------------------------
+

@@ -1,0 +1,19 @@
+
+-------------------
+
+trig expander
+
+Variable sequence lengths
+patch an output to the reset input of VC SEQ to make shorter sequences. This can allow you to create odd step numbers, useful for creating polyrhythms, ever-evolving variation, or bit-reduced oscillations when clocked at audio rate.
+
+Trigger envelopes per step
+using the bottom-most trigger output, or any OR'd combination of outputs, you can trigger envelopes, samples, etc in time with the sequence
+
+Drum sequencing
+combine multiple outputs with RYO (N)OR to trigger drums in time with the sequence
+
+Sync VCOs
+a single trigger to a VCO or set of VCOs will reset their phase - great for creating swells per step or set of steps through phase differences caused by detuning of separate VCOs!
+
+------------------------------------------------------
+

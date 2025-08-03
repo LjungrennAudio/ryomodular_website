@@ -1,0 +1,16 @@
+
+---------------------------------------------------
+
+3xVCA
+
+distortion
+using the default voltage setting of 5v, you cam amplify signals up to 2x using a +10v signal, creating clipping and distortion.
+
+AM synthesis
+Classic yet oft-forgotten, AM synthesis is an old west-coast trick simply involving audio rate amplitude modulation of one oscillator with another. Using precise ratios of modulator to carrier, one can achieve granular formant synthesis, creating vowel-like timbres.
+
+Compression
+Along with an RYO (N)AND used as an inverter and AND gate, a VCA can be used as the dynamics-altering element of a compressor setup. Mult the signal to be compressed to an envelope follower and a VCA input, run the envelope and a static voltage into the AND gate, invert the output, and use it to control the VCA's level. Parts of the envelope above the static voltage will be used to turn the VCA level down dynamically.
+
+----------------------------------------------------
+

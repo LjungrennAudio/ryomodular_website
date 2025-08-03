@@ -1,0 +1,19 @@
+
+-----------------------------------------------------
+
+vc seq
+
+Ratcheting
+Use VC SEQ to control an LFO's rate in time with your sequence to create variable ratcheting per step! OR the LFO with your sequence triggers controlling your sound generator modules' envelopes.
+
+Clock division
+by setting the knobs to only max or minimum, you can create a divider, cutting the clock down to slower speeds - great for drums!
+
+Bipolar self-patched sequencing
+By patching the output to the input to control direction and speed, you can sequence the sequencer to create complex generative rhythms.
+
+Bipolar sequencing
+This in itself is a rarity among sequencers, most of which only operate in the positive unipolar range. Use this to hit occasional bass notes with your oscillators without strange patching, modulate bipolar parameters, or just use it as a full-swing audio-rate oscillator when clocked by a VCO!
+
+-------------------
+

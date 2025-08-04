@@ -1,0 +1,14 @@
+- 3-channel attenuverting high precision mixer/attenuvertor.
+- Works as 3 channel mixer, 1 attenuvertor + 2 channel mixer, 3 attenuvertors.
+- -1.0x to 1.0x gain (-5V to +5V offset available) per channel, channels can be chained for greater offset gain, any combination of channels in any order. (+/-10V offset max)
+- 5.0V offset per channel.
+- All analogue circuitry.
+- Hi-fidelity signal chain with low noise opamps.
+- High impedance inputs and buffered outputs.
+- Slim 6HP footprint.
+- Compact 35mm Depth (with power cable attached).
+- Low power draw: 22mA+12V / 22mA -12V /no +5V required.
+- Works for audio as well as CV.
+- Fast responding CV inputs allow for complex modulation and modulating with audio signals.
+- Sum mix output.
+- Ch1 and ch2 outputs normalized to mix output for patching convenience.

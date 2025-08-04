@@ -1,0 +1,9 @@
+- Gyrator emulation circuitry recreates 1960s mixing desk "British EQ" sound.
+- Brit_EQ5 can be used as a sound sculpting colorizing tool or as a traditional relatively clean sounding channel EQ filter. Copes with both tasks adeptly, and has basic distortion capabilities for some characterful overdriven sound.
+- Input is AC coupled with clipping towards the end of the oitput summing mixer pot range for overdrive of the final outgoing signal.
+- All analogue circuitry.
+- Buffered inputs and outputs.
+- Slim 4HP footprint. 
+- Compact 27mm Depth (with power cable attached).
+- Low power draw: 50mA+12V / 75mA -12V /0mA +5V.
+- Hi-fidelity signal chain with low noise opamps.

@@ -1,0 +1,11 @@
+- ADC/DAC in one module.
+- Converts between continuous voltage and 8bit digital encoding using voltage control based on the same design as our VC Sequencer.
+- All analogue circuitry - no software or micro processors!
+- All low latency CMOS and Opamp circuitry!
+- Commonly controlled yet separate ins and outs.
+- Schmitt trigger inputs.
+- Slim 14HP footprint.
+- Compact ??mm Depth (with power cable attached).
+- Low power draw: ??mA+12V / ?mA -12V /?mA +5V.
+- Works for audio as well as CV.
+- Fast responding CV inputs allow clocking to reach through entire audio range.

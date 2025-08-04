@@ -1,0 +1,47 @@
+hole		hole
+
+	AD DA
+
+ [1]range    [2]peak
+pink knob	pink knob
+	ryo
+
+   adc		dac out
+[3]skt	skt[4]	[5]skt
+in	clk
+
+adc out		dac in
+
+1	5	1	5
+skt[6]	skt[7]	skt[8]	skt[9]
+
+2	6	2	6
+skt[10]	skt[etc.]	skt	skt
+
+3	7	3	7
+skt	skt	skt	skt
+
+4	8	4	8
+skt	skt	skt	skt
+
+hole			hole
+
+
+-------------------------
+
+
+ADDA
+
+1. range knob for dac
+2. peak knob for dac range
+3. adc input
+4. adc clock input
+5. dac output
+6. adc out 1
+7. adc out 5
+8. dac in 1
+9. adc in 5
+10. adc out 2
+etc.
+
+width: 14 hp

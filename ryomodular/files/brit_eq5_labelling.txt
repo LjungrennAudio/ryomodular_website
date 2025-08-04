@@ -1,0 +1,45 @@
+Brit_EQ5
+
+
+mini knob [1]
+
+
+mini knob [2]
+
+
+mini knob [3]
+
+
+mini knob [4]
+
+
+mini knob [5]
+
+
+mini knob [6]
+red ring
+
+
+skt [7]
+input
+
+skt [8]
+output
+
+
+------------------
+
+Brit_EQ5
+
+
+1. hi freq band adjust
+2. hi-mid freq band adjust
+3. mid freq band adjust
+4. lo-mid frew band adjust
+5. lo freq band adjust
+6. output gain adjust
+7. Signal input
+8. Signal output
+
+
+width: 4 hp.

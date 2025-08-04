@@ -1,0 +1,19 @@
+
+---------------------------------------------------
+
+paths
+
+wave sequencing
+By patching a typical VCO's 4 outputs of saw, square, sine, and triangle to the inputs of Paths, and clocking it with the square wave, you can create a wave sequenced oscillator.
+
+complex sequences
+much like the classic moog 962, Paths can be used to mix and match 4 different sequences of triggers or CV (or both!) either via cycling or applying CV (like one of the sequences, or the output of Paths itself!). This can be used to create semi-generative sequences.
+
+Sequencer/Complex modulator
+By clocking Paths and sending static voltages to each input, you can create 4-note sequences. Play with rhythm and patterns up and down to create more complex sequences. Adding slew to the output will allow you to create complex envelopes and LFOs, and even use it as a crude waveshaper for swept CV's like decay envelopes or ramp LFOs.
+
+Modulation sequences
+Send various LFOs and envelopes to the inputs and switch between them with a clock. You'll have a complex modulation source using the same modules you already own!
+
+----------------------------------------------------
+

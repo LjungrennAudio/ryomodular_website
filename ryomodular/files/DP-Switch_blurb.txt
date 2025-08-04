@@ -1,0 +1,9 @@
+- Patch programmable switching tool - a veritable swiss-army knife of logic.
+- Schmitt trigger input conditioning allows triggering by any voltage or shape of input signal.
+- All analogue circuitry. 
+- Slim 6HP footprint.
+- Compact 45mm Depth (with power cable attached).
+- Low power draw: 12mA+12V / 0mA -12V /0mA +5V.
+- Input/Outputs cope with audio, CV or trig/gate to ultrasonic speeds upto rail max voltages.
+- Momentary and latching modes.
+- Can be combined via patch-programming to produce more complex toggles, latches and flip-flops.  

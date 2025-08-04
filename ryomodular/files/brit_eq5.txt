@@ -1,0 +1,26 @@
+screw hole
+
+
+brit_eq5
+
+hi mini knob [i.e. black, white tick]
+
+hi-mid "
+
+mid "
+
+lo-mid "
+
+lo "
+
+out [" red ring]
+gain
+
+skt [input]
+
+skt [output]
+
+ryo
+
+
+screw hole
